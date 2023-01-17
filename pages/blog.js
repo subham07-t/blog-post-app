@@ -5,7 +5,7 @@ import Card from "../components/Card";
 import { collection, onSnapshot } from "firebase/firestore";
 import { db } from "../config/firebase";
 
-const blog = () => {
+const Blog = () => {
   const { user, router, data, setData } = useAuth();
 
   useEffect(() => {
@@ -61,4 +61,4 @@ const blog = () => {
   );
 };
 
-export default blog;
+export default Blog;
