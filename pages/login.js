@@ -13,7 +13,6 @@ const Login = () => {
   const [pass, setPass] = useState("");
 
   const {
-    user,
     login,
     alertActivate,
     setAlertActivate,
@@ -98,7 +97,7 @@ const Login = () => {
           </button>
 
           <p className="text-center">
-            Don't have an account?
+            Don`&apos;`t have an account?
             <Link href="signup" className="underline text-blue-600">
               Create an Account
             </Link>
