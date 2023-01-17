@@ -12,7 +12,7 @@ import {
 import { db } from "../config/firebase";
 import AlertBox from "../components/AlertBox";
 
-const addData = () => {
+const AddData = () => {
   const {
     user,
     router,
@@ -152,4 +152,4 @@ const addData = () => {
   );
 };
 
-export default addData;
+export default AddData;
