@@ -1,5 +1,6 @@
 
 # Welcome to BLOG-POST app 👋
+![Screenshot_1](https://github.com/subham07-t/blog-post-app/assets/82716446/b2fbfc66-386d-4129-8f8f-59027a28ae22)
 
 It's a user-friendly platform where individuals can sign up, log in, and create their own accounts. Once registered, users can effortlessly write and publish their blog posts, which will be securely saved in Firebase, our reliable database service. The platform supports key actions like creating, reading, updating, and deleting blog posts
 
