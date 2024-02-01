@@ -40,6 +40,7 @@ Start the server
 - NEXT 
 - Firebase
 - Tailwind
+- MUI
 
 ## Features
 
