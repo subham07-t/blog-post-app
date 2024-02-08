@@ -37,29 +37,24 @@ Start the server
 
 ## Tools used
 
-- NEXT 
-- Firebase
-- Tailwind
-- MUI
+- **Framework:** [Next js](https://www.next.co.uk/)
+- **SDK:** [Firebase](https://firebase.google.com/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components:** [MUI](https://mui.com/)
 
 ## Features
 
-- Users can create and login to their own accounts. 
-- Can publish their blog, which will be saved in Firebase.
-- Support CRUD operations.
-- Implement session authentication.
+- [x] Users can create and login to their own accounts. 
+- [x] Can publish their blog, which will be saved in Firebase.
+- [x] Support CRUD operations.
+- [x] Implement session authentication.
   
-## Lessons Learned
-
-- How to use NEXT
-- How to use Firebase
-- How to Implement Session Authentication 
 
 
 ## Author
 
-👤 ** Subham haldar  **
+👤 **Subham haldar**
 
-* Github: [@Subham07-t   ](https://github.com/Subham07-t   )
+* Github: [@Subham07-t](https://github.com/Subham07-t   )
 * LinkedIn: https://linkedin.com/in/subham-haldar-a8367221
 
